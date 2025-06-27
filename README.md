@@ -1,13 +1,14 @@
 # URL Shortener Web App – Frontend Test Submission
 
 This repository contains the frontend implementation for the Company Frontend Assessment. The application is a URL Shortener built using **React** and **Material UI**, with logging middleware integrated as per the assignment requirements.
-##  Screenshots
+## Screenshots
 
-### URL Shortener Page
-![Shortener Page](./src/assets/shorten.png)
+### Shortener Page
+![Shorten Page](src/assets/shorten.png)
 
 ### Statistics Page
-![Statistics Page](./src/assets/stats.png)
+![Stats Page](src/assets/stats.png)
+
 
 
 
