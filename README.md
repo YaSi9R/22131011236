@@ -4,7 +4,7 @@ This repository contains the frontend implementation for the AffordMed Frontend 
 ## Screenshots
 
 ### URL Shortener Page – Desktop View
-![Shortener UI](./src/assets/Screenshot%202025-06-27%20151414.png)
+![Shortener UI](./src/assets/Screenshot 2025-06-27 151414.png)
 ### Statistics Page – Mobile View
 ![Statistics Page Mobile](./assets/stats-page-mobile.png)
 
