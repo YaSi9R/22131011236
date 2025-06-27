@@ -5,7 +5,8 @@ This repository contains the frontend implementation for the Company Frontend As
 ## Screenshots
 
 ### URL Shortener Page
-![Shortener](./src/assets/shorten.png)
+![Shortener]([https://i.imgur.com/yourimage.png](https://ibb.co/ZzSTS8dg)
+
 
 ### Statistics Page
 ![Statistics](./src/assets/stats.png)
