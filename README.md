@@ -53,7 +53,7 @@ This repository contains the frontend implementation for the AffordMed Frontend 
 
 ## Logging Middleware
 
-Located in `../LoggingMiddleware/logger.js`, the `logEvent()` function logs events to the AffordMed test server.
+Located in `../LoggingMiddleware/logger.js`, the `logEvent()` function logs events to the company test server.
 
 ### Signature
 ```js
