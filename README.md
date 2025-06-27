@@ -1,6 +1,14 @@
 # URL Shortener Web App – Frontend Test Submission
 
 This repository contains the frontend implementation for the AffordMed Frontend Assessment. The application is a URL Shortener built using **React** and **Material UI**, with logging middleware integrated as per the assignment requirements.
+## Screenshots
+
+### URL Shortener Page – Desktop View
+![Shortener Page Desktop](./assets/shortener-page-desktop.png)
+
+### Statistics Page – Mobile View
+![Statistics Page Mobile](./assets/stats-page-mobile.png)
+
 
 ## Folder Structure
 -> LoggingMiddleware/
